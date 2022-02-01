@@ -1,0 +1,12 @@
+{
+  "When a new testing tool is purchased, it should be used first by: ": "Everyone who may eventually have some use for the tool ",
+  "Which of the following statements is NOT true: ": "inspection is appropriate even when there are no written documents ",
+  "Which one of the following describes the major benefit of verification early in the life cycle? ": "It reduces defect multiplication.",
+  "We split testing into distinct stages primarily because: ": "Each test stage has a different purpose.",
+  "Regression testing should be performed: v) every week w) after the software has changed x) as often as possible y) when the environment has changed z) when the project manager says ": "w & y are truev, x & z are false ",
+  "Non-functional system testing includes: ": "testing quality attributes of the system including performance and usability ",
+  " Test cases are designed during: ": "test specification. ",
+  "Given the following types of tool, which tools would typically be used by developers and which by an independent test team:i. static analysisii. performance testing iii. test managementiv. dynamic analysis v. test running vi. test data preparation ": "developers would typically use i and ivtest team ii, iii, v and vi ",
+  "When what is visible to end-users is a deviation from the specific or expected behavior, this is called:": "a failure ",
+  "Error guessing is best used ": "After more formal techniques have been applied "
+}
