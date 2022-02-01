@@ -1,0 +1,10 @@
+#!/usr/bin/env node
+/* eslint-disable no-console */
+const { quiz } = require('../quiz');
+
+if (process.argv.length !== 3) {
+  console.log('Usage: node src/bin/quiz <Quizziz URL>');
+  process.exit(1);
+}
+
+quiz(process.argv[2]);
