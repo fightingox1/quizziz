@@ -1,0 +1,29 @@
+{
+  "name": "quizzerjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/bin/quiz",
+  "bin": {
+    "quiz": "./src/bin/quiz"
+  },
+  "scripts": {
+    "lint": "eslint src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aboqasem/quizzerjs.git"
+  },
+  "author": "Mohammad Al Zouabi",
+  "license": "MIT",
+  "dependencies": {
+    "chromedriver": "^87.0.2",
+    "dotenv": "^8.2.0",
+    "selenium-webdriver": "^4.0.0-alpha.8"
+  },
+  "devDependencies": {
+    "eslint": "^7.15.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  },
+  "keywords": []
+}
